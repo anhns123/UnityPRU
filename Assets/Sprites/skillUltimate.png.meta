@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 8f58808a04714c547a6eac8407e0c5e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2368549603687970241
+    second: skillUltimate_0
+  - first:
+      213: 3078274882112267901
+    second: skillUltimate_1
+  - first:
+      213: -8523844379092767840
+    second: skillUltimate_2
+  - first:
+      213: -5384878536015684877
+    second: skillUltimate_3
+  - first:
+      213: -5356908276206664035
+    second: skillUltimate_4
+  - first:
+      213: 4323547367246052974
+    second: skillUltimate_5
+  - first:
+      213: -1401955455048612572
+    second: skillUltimate_6
+  - first:
+      213: 9039182491186692756
+    second: skillUltimate_7
+  - first:
+      213: 366940549110066774
+    second: skillUltimate_8
+  - first:
+      213: 6179313829736562564
+    second: skillUltimate_9
+  - first:
+      213: -6949967132153301188
+    second: skillUltimate_10
+  - first:
+      213: 1221886543311907181
+    second: skillUltimate_11
+  - first:
+      213: -8856670419954126899
+    second: skillUltimate_12
+  - first:
+      213: -5366621083763143221
+    second: skillUltimate_13
+  - first:
+      213: -6479465466960609745
+    second: skillUltimate_14
+  - first:
+      213: -1211870826713037326
+    second: skillUltimate_15
+  - first:
+      213: -7547328851665559421
+    second: skillUltimate_16
+  - first:
+      213: 8022108532498280196
+    second: skillUltimate_17
+  - first:
+      213: 3816359985153500770
+    second: skillUltimate_18
+  - first:
+      213: -1131770274720522729
+    second: skillUltimate_19
+  - first:
+      213: -8599397451972967308
+    second: skillUltimate_20
+  - first:
+      213: -6990211011372053894
+    second: skillUltimate_21
+  - first:
+      213: -9166130147159282742
+    second: skillUltimate_22
+  - first:
+      213: -2546413930134260291
+    second: skillUltimate_23
+  - first:
+      213: -5783499995559035203
+    second: skillUltimate_24
+  - first:
+      213: 2425942533616871699
+    second: skillUltimate_25
+  - first:
+      213: -8254283267583801866
+    second: skillUltimate_26
+  - first:
+      213: -2883985121017069784
+    second: skillUltimate_27
+  - first:
+      213: -1223561228508460898
+    second: skillUltimate_28
+  - first:
+      213: 1409934439307554167
+    second: skillUltimate_29
+  - first:
+      213: 8395713291398497420
+    second: skillUltimate_30
+  - first:
+      213: -561377250843059861
+    second: skillUltimate_31
+  - first:
+      213: -6206555158640069408
+    second: skillUltimate_32
+  - first:
+      213: 7230908144018468155
+    second: skillUltimate_33
+  - first:
+      213: -3259282700227869683
+    second: skillUltimate_34
+  - first:
+      213: -6757092304973925065
+    second: skillUltimate_35
+  - first:
+      213: -3515475540731300043
+    second: skillUltimate_36
+  - first:
+      213: -971613221231332980
+    second: skillUltimate_37
+  - first:
+      213: -9212539971627394423
+    second: skillUltimate_38
+  - first:
+      213: 8670299360832129982
+    second: skillUltimate_39
+  - first:
+      213: 602811709135761239
+    second: skillUltimate_40
+  - first:
+      213: 435254868969513660
+    second: skillUltimate_41
+  - first:
+      213: -8283262385615677173
+    second: skillUltimate_42
+  - first:
+      213: -2993125305292278409
+    second: skillUltimate_43
+  - first:
+      213: 964469515827155383
+    second: skillUltimate_44
+  - first:
+      213: 3528990059444722028
+    second: skillUltimate_45
+  - first:
+      213: -4591170491243812568
+    second: skillUltimate_46
+  - first:
+      213: -2118649673566467882
+    second: skillUltimate_47
+  - first:
+      213: 5681301295954762545
+    second: skillUltimate_48
+  - first:
+      213: -556073543694660658
+    second: skillUltimate_49
+  - first:
+      213: -2037345213722252049
+    second: skillUltimate_50
+  - first:
+      213: -3332790408824403509
+    second: skillUltimate_51
+  - first:
+      213: 1021390473912841318
+    second: skillUltimate_52
+  - first:
+      213: -5428127304782446313
+    second: skillUltimate_53
+  - first:
+      213: -4400371193508831059
+    second: skillUltimate_54
+  - first:
+      213: -56083944396744334
+    second: skillUltimate_55
+  - first:
+      213: -5357238896022507518
+    second: skillUltimate_56
+  - first:
+      213: 1305829536058565127
+    second: skillUltimate_57
+  - first:
+      213: 6152693918024845469
+    second: skillUltimate_58
+  - first:
+      213: -8487661529180212155
+    second: skillUltimate_59
+  - first:
+      213: -6300524197699756808
+    second: skillUltimate_60
+  - first:
+      213: -901306117792397915
+    second: skillUltimate_61
+  - first:
+      213: -5625923425970457684
+    second: skillUltimate_62
+  - first:
+      213: 8749880867923384187
+    second: skillUltimate_63
+  - first:
+      213: 4938536410317204471
+    second: skillUltimate_64
+  - first:
+      213: 2274492797449226184
+    second: skillUltimate_65
+  - first:
+      213: 4815178383061174954
+    second: skillUltimate_66
+  - first:
+      213: 6517053368989798528
+    second: skillUltimate_67
+  - first:
+      213: -2867543084707986091
+    second: skillUltimate_68
+  - first:
+      213: -3302146205827903305
+    second: skillUltimate_69
+  - first:
+      213: 6078311649243104331
+    second: skillUltimate_70
+  - first:
+      213: 8079340782125457471
+    second: skillUltimate_71
+  - first:
+      213: -2876984566380984245
+    second: skillUltimate_72
+  - first:
+      213: 4081505093691130189
+    second: skillUltimate_73
+  - first:
+      213: -156370457682394080
+    second: skillUltimate_74
+  - first:
+      213: -29704005301891251
+    second: skillUltimate_75
+  - first:
+      213: 563506705101188179
+    second: skillUltimate_76
+  - first:
+      213: 1801715756245269044
+    second: skillUltimate_77
+  - first:
+      213: -5502542224885972937
+    second: skillUltimate_78
+  - first:
+      213: 3666169761396939303
+    second: skillUltimate_79
+  - first:
+      213: 8235434431066487784
+    second: skillUltimate_80
+  - first:
+      213: 1395879576096764796
+    second: skillUltimate_81
+  - first:
+      213: -6526608848978799172
+    second: skillUltimate_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skillUltimate_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69938a5d569538f0800000000000000
+      internalID: -561377250843059861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 204
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f36a87f2edd9a0800000000000000
+      internalID: -6206555158640069408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 228
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d23bf55a8595460800000000000000
+      internalID: 7230908144018468155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 233
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537f22a1f95863fc0800000000000000
+      internalID: -3515475540731300043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 232
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81fe615ce22482f0800000000000000
+      internalID: -971613221231332980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 230
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb02bad457135870800000000000000
+      internalID: 8670299360832129982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 231
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2efab4ff55a0600800000000000000
+      internalID: 435254868969513660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 138
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06b03b6bdbee2c0800000000000000
+      internalID: -4400371193508831059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 135
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27911a023ffb83ff0800000000000000
+      internalID: -56083944396744334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003ca1ab9347a5b0800000000000000
+      internalID: -5357238896022507518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 147
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702ebf16b0d3f1210800000000000000
+      internalID: 1305829536058565127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_58
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 139
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98c3932582c26550800000000000000
+      internalID: 6152693918024845469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_59
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 140
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f67b0fc4c53a80800000000000000
+      internalID: -8487661529180212155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 139
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5a51bf9a0098a0800000000000000
+      internalID: -6300524197699756808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 146
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a509177cdaed73f0800000000000000
+      internalID: -901306117792397915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillUltimate_63
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 141
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775f8f5a42dd6970800000000000000
+      internalID: 8749880867923384187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0148cecd754c52d44ae343c1ca158214
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skillUltimate_31: -561377250843059861
+      skillUltimate_32: -6206555158640069408
+      skillUltimate_33: 7230908144018468155
+      skillUltimate_36: -3515475540731300043
+      skillUltimate_37: -971613221231332980
+      skillUltimate_39: 8670299360832129982
+      skillUltimate_41: 435254868969513660
+      skillUltimate_54: -4400371193508831059
+      skillUltimate_55: -56083944396744334
+      skillUltimate_56: -5357238896022507518
+      skillUltimate_57: 1305829536058565127
+      skillUltimate_58: 6152693918024845469
+      skillUltimate_59: -8487661529180212155
+      skillUltimate_60: -6300524197699756808
+      skillUltimate_61: -901306117792397915
+      skillUltimate_63: 8749880867923384187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
